@@ -1,0 +1,13 @@
+let x = 10
+const y = 20
+
+if x > y {
+    let result = "x is greater"
+} else {
+    let result = "y is greater"
+}
+if x < y {
+    let result = "x < y"
+} else {
+    let result = "x > y"
+}
